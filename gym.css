@@ -1,0 +1,362 @@
+
+@font-face {
+    font-family: collegiate;
+    src: url("CollegiateInsideFLF.ttf");
+}
+   *{
+       font-family: collegiate;
+   }
+   .navbar{
+    background-color: rgba(0,0,0,.7);
+    
+    }
+.navbar ul{
+    overflow: auto;
+}
+.navbar li{
+    float:left;
+    color: white;
+    list-style: none;
+    margin:30px 25px;
+    font-size: 25PX;
+
+}
+.lop{
+    font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+}
+.map{
+    height:30px;
+    width:30px;
+}
+li:hover{
+    color: red;
+}
+.gympic
+{
+    height:1000px;
+    background-image: url("gym.jpg");
+    margin-top: -30px;
+    opacity: .9;
+}
+
+.cont{
+  
+    margin-left: 350px;
+    padding-top: 100px;
+
+
+}
+.logo{
+    height:400px;
+    width:400px;
+   padding-top: 50px;
+    margin-left: 70px;
+    border-radius: 200px;
+}
+.fit{
+    font-size:80px;
+    color:yellow;
+    font-family: 'Courier New', Courier, monospace;
+    text-shadow: 10px 10px 10px red;
+
+ 
+}
+.def1{
+    margin-left: 250px;
+    margin-top: -80px;
+}
+.def{
+    font-size: 20px;
+    color:white;
+    
+}
+.two{
+    background-color:darkslategray;
+    height:450px;
+}
+.group{
+ padding-top: 80px;
+    margin-left: 70px;
+    background-image: url("grouptrain.jpg");
+    height:300px;
+    width:400px;
+    filter:grayscale(0.5);
+   
+
+    border-radius: 50px;
+  background-size: cover;
+}
+.gt{
+    padding-left: 50px;
+    padding-top: 55px;
+    color: white;
+    text-shadow: 10px 10px 10px red;
+}
+.mv{
+    padding-top: 50px;
+}
+.r{
+    padding-left:130px;
+    color:aqua;
+    font-size: 20px;
+}
+.personal{
+    padding-top: 80px;
+       margin-left: 550px;
+       background-image: url("personal.jpg");
+       height:300px;
+       width:400px;
+       filter:grayscale(0.4);     
+   
+       border-radius: 50px;
+     background-size: cover;
+   }
+   .pt{
+       padding-left: 30px;
+       padding-top: 55px;
+       color: white;
+       text-shadow: 10px 10px 10px red;
+   }
+   .pv{
+       margin-top: -380px;
+   }
+   .p{
+       padding-left:130px;
+       color:aqua;
+       font-size: 20px;
+ }
+ .nutrition{
+    padding-top: 80px;
+       margin-left: 1030px;
+       background-image: url("nutrition.jpg");
+       height:300px;
+       width:400px;
+      filter:grayscale(0.7);
+   
+       border-radius: 50px;
+     background-size: cover;
+   }
+   .nt{
+       padding-left: 50px;
+       padding-top: 55px;
+       color:white;
+       text-shadow: 10px 10px 10px red;
+   }
+   .nv{
+       margin-top: -380px;
+   }
+   .n{
+       padding-left:130px;
+       color:aqua;
+       font-size: 20px;
+ }
+
+.three{
+    height: 600px;
+    background-color: black;
+}
+.cross{
+    margin-left: 850px;
+    margin-top: 100px;
+}
+.kk{
+    color:white;
+    margin-top: -350px;
+    margin-left: 200px;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+
+}
+.kp{
+    color:white;
+    margin-left: 100px;
+    margin-right: 800px;
+    font-family:'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+}
+.kh{
+    color:white;
+    margin-left: 100px;
+    margin-right: 800px;
+    font-size: 15px;
+
+}
+.cb{
+    margin-left: 100px;
+    margin-top: 50px;
+   
+
+}
+.crossbutton{
+    font-size: 20px;
+    border-radius: 5px;
+    background-color: rgb(240, 187, 13);
+}
+.crossbutton:hover{
+    color: darkmagenta;
+}
+.packhead{
+    height: 620px;
+     background-color:rgba(0,0,0,0.4);
+     margin-top: -20px;
+}
+.packh{
+   
+    font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+    text-align: center;
+    text-decoration:wavy;
+}
+body{
+    background-image: linear-gradient( black,red);
+}
+.lighty{
+    border:0px solid black;
+    width:1300px;
+    height:450px;
+    background-color: rgba(0,0,0,0.4);
+    margin-left:100px;
+}
+.pic1{
+    height:200px;
+    width:200px;
+    background-image: url("gympic1.jpg");
+    margin-left:50px;
+  
+    background-size: cover;
+   
+}
+.gym1{
+    MARGIN-top: 20px;
+    border: 2px solid white;
+    height:440px;
+    width:300px;
+    margin-left: 100px;
+    background-color:rgba(0,0,0,0.4); 
+}
+.part1{
+    font-size: 17px;
+    padding-left:15px;
+    color:aliceblue;
+   
+    padding-top:220px;;
+}
+.self{
+    font-size: 25px;
+    color:white;
+    padding-left: 0.1px ;
+}
+.butt1{
+    padding-left: 20px ;
+    color:oldlace;
+
+}
+.butt1:hover{
+    color: magenta;
+}
+.pic2{
+    height:200px;
+    width:200px;
+    background-image: url("gympic2.jpg");
+    margin-left:50px;
+  
+    background-size: cover;
+   
+}
+.gym2{
+    MARGIN-top: -444px;
+    border: 2px solid white;
+    height:440px;
+    width:300px;
+    margin-left: 500px;
+    background-color:rgba(0,0,0,0.4); 
+}
+.part2{
+    font-size: 17px;
+    padding-left:5px;
+    color:aliceblue;
+   
+    padding-top:220px;;
+}
+.self2{
+    font-size: 25px;
+    color:white;
+    padding-left: 0.1px ;
+}
+.butt2{
+    padding-left: 20px ;
+    color:oldlace;
+
+}
+.butt2:hover{
+    color: magenta;
+}
+
+.pic3{
+    height:200px;
+    width:200px;
+    background-image: url("gympic2.jpg");
+    margin-left:50px;
+  
+    background-size: cover;
+   
+}
+.gym3{
+    MARGIN-top: -444px;
+    border: 2px solid white;
+    height:440px;
+    width:300px;
+    margin-left: 900px;
+    background-color:rgba(0,0,0,0.4); 
+}
+.part3{
+    font-size: 17px;
+    padding-left:5px;
+    color:aliceblue;
+   
+    padding-top:220px;;
+}
+.self3{
+    font-size: 25px;
+    color:white;
+    padding-left: 0.1px ;
+}
+.butt3{
+    padding-left: 20px ;
+    color:oldlace;
+
+}
+.butt3:hover{
+    color: magenta;
+}
+.contact{
+    height:500px;
+    background-color: black;
+    margin-top: 20px;
+}
+.con{
+    color:white;
+    font-size: 30px;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    margin-left: 100px;
+    margin-top: 100px;
+}
+.d1{
+    color: white;
+}
+.condet{
+    margin-left: 100px;
+}
+.link{
+    color:white;
+    font-size: 30px;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    margin-left: 800px;
+    margin-top: -100px;
+}
+.follow{
+    margin-left: 950px;
+    margin-top: -250px;
+}
+.oo{
+    height:100px;
+    width:200px;
+}
+
